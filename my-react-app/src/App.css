@@ -1,0 +1,21 @@
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 12%;
+  margin: 10%;
+  margin-left: 340px;
+}
